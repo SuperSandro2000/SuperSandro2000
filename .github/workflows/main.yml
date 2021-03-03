@@ -17,6 +17,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_animated: yes
           config_timezone: Europe/Berlin
+          optimize: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
