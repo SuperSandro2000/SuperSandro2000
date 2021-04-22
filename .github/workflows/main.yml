@@ -18,6 +18,9 @@ jobs:
           config_animations: yes
           config_timezone: Europe/Berlin
           optimize: no
+          repositories_forks: yes
+          use_prebuilt_image: yes
+
           plugin_achievements: yes
           plugin_achievements_ignored: explorer, infographile, member, worker, verified
           plugin_achievements_secrets: yes
@@ -31,4 +34,3 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars:>100
           plugin_notable_repositories: yes
-          repositories_forks: yes
