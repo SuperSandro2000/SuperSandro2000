@@ -27,4 +27,6 @@ jobs:
           plugin_languages: yes
           plugin_lines: yes
           plugin_notable: yes
+          plugin_notable_filter: stars:>100
+          plugin_notable_repositories: yes
           repositories_forks: yes
