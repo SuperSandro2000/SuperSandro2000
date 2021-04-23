@@ -31,9 +31,9 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_skipped: GOD-GOG
           plugin_lines: yes
-          plugin_notable: yes
-          plugin_notable_filter: stars:>100
-          plugin_notable_repositories: yes
+          #plugin_notable: yes
+          #plugin_notable_filter: stars:>100
+          #plugin_notable_repositories: yes
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 45
