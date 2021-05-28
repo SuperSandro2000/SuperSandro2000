@@ -18,7 +18,7 @@ jobs:
           config_animations: yes
           config_timezone: Europe/Berlin
           optimize: no
-          repositories_forks: yes
+          #repositories_forks: yes
           use_prebuilt_image: yes
 
           #plugin_achievements: yes
