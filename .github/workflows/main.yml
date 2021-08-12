@@ -14,7 +14,7 @@ jobs:
 
           user: SuperSandro2000
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories #, metadata
           config_animations: yes
           config_timezone: Europe/Berlin
           optimize: no
