@@ -1,7 +1,7 @@
 ### Hey :wave:
 
-  - :telescope: I am currently a commiter on [nixpkgs](https://github.com/NixOS/nixpkgs/) and maintain [factorio-docker](https://github.com/factoriotools/factorio-docker/).
-- :thinking: I am possibly looking for a job.
+- :telescope: I am currently a commiter on [nixpkgs](https://github.com/NixOS/nixpkgs/) and maintain [factorio-docker](https://github.com/factoriotools/factorio-docker/).
+- :thinking: I am no longer looking for a job.
 - :thought_balloon: You can ask me questions about Nix, Docker and Privacy.
 - :mailbox: Reach me over the links in the left sidebar on [my website](https://supersandro.de/).
 - :hammer_and_wrench: If you would like to have a review or merge in nixpkgs feel free to drop me a message.
