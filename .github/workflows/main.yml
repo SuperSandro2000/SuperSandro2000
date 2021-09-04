@@ -22,6 +22,7 @@ jobs:
           use_prebuilt_image: yes
 
           #plugin_achievements: yes
+          #plugin_achievements_display: compact
           #plugin_achievements_ignored: explorer, infographile, member, worker, verified
           #plugin_achievements_secrets: yes
           #plugin_achievements_threshold: A
