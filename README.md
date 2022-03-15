@@ -7,11 +7,11 @@
 - :hammer_and_wrench: If you would like to have a review or merge in nixpkgs feel free to drop me a message.
 - :zap: Fun fact: I archived all Factorio mods. One went missing? Reach out to me and I might have a copy of it.
 
-<p align="center">
+<!--p align="center">
   <a href="https://github.com/SuperSandro2000/">
     <img src="https://github-readme-stats.vercel.app/api?username=SuperSandro2000&bg_color=232627&text_color=ffffd7&icon_color=af5f5f&title_color=ff557f" />
   </a>
-</p>     
+</p-->     
 
 <p align="center">
   <a href="https://github.com/SuperSandro2000/">
