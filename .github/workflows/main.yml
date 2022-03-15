@@ -21,11 +21,11 @@ jobs:
           #repositories_forks: yes
           use_prebuilt_image: yes
 
-          #plugin_achievements: yes
-          #plugin_achievements_display: compact
-          #plugin_achievements_ignored: explorer, infographile, member, worker, verified
-          #plugin_achievements_secrets: yes
-          #plugin_achievements_threshold: A
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_ignored: explorer, infographile, member, worker, verified
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: B
           #plugin_isocalendar: yes
           #plugin_isocalendar_duration: full-year
           #plugin_languages: yes
