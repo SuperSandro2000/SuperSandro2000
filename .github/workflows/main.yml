@@ -36,7 +36,7 @@ jobs:
           #plugin_notable_filter: stars:>100
           #plugin_notable_repositories: yes
           plugin_repositories: yes
-          plugin_repositories_list: nixos/nixpkgs, supersandro2000/docker-images
+          plugin_repositories_featured: nixos/nixpkgs, supersandro2000/docker-images
           #plugin_topics: yes
           #plugin_topics_mode: mastered
           #plugin_topics_limit: 20
