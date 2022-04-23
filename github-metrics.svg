@@ -3969,10 +3969,10 @@
                       <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.097872340425532 0,2.097872340425532 z"/>
                       <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.097872340425532 1.7,3.097872340425532 z"/>
                     </g>
-                    <g transform="translate(-8.5, 10.336170212765957)">
+                    <g transform="translate(-8.5, 10.310638297872341)">
                       <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6638297872340426 0,1.6638297872340426 z"/>
-                      <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6638297872340426 1.7,2.6638297872340426 z"/>
+                      <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6893617021276595 0,1.6893617021276595 z"/>
+                      <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6893617021276595 1.7,2.6893617021276595 z"/>
                     </g></g></g></svg>
     
   </section>
