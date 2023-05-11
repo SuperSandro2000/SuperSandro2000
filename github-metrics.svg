@@ -1774,7 +1774,7 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            19254 issue comments
+            19257 issue comments
           </div>
         </section>
       
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    47k added, 34k removed
+                    610k added, 121k removed
                   
                 </div>
             
@@ -1906,21 +1906,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="364.10470616966813" height="8" fill="#7e7eff"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="364.10767022353355" height="8" fill="#7e7eff"/>
             
-              <rect mask="url(#languages-bar)" x="364.10470616966813" y="0" width="21.292636377615167" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="364.10767022353355" y="0" width="21.29280971380141" height="8" fill="#701516"/>
             
-              <rect mask="url(#languages-bar)" x="385.3973425472833" y="0" width="19.3903416337274" height="8" fill="#000080"/>
+              <rect mask="url(#languages-bar)" x="385.400479937335" y="0" width="19.390499483972388" height="8" fill="#000080"/>
             
-              <rect mask="url(#languages-bar)" x="404.7876841810107" y="0" width="19.326266088985772" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="404.7909794213074" y="0" width="19.32642341761332" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="424.11395026999645" y="0" width="16.67129173186682" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="424.11740283892067" y="0" width="16.67142744724172" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="440.78524200186325" y="0" width="7.745235489385565" height="8" fill="#083fa1"/>
+              <rect mask="url(#languages-bar)" x="440.78883028616235" y="0" width="7.741553835564026" height="8" fill="#083fa1"/>
             
-              <rect mask="url(#languages-bar)" x="448.5304774912488" y="0" width="5.837531770941686" height="8" fill="#427819"/>
+              <rect mask="url(#languages-bar)" x="448.5303841217264" y="0" width="5.837579292323083" height="8" fill="#427819"/>
             
-              <rect mask="url(#languages-bar)" x="454.36800926219047" y="0" width="5.631990737809455" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="454.3679634140495" y="0" width="5.632036585950481" height="8" fill="#3572A5"/>
             
           </svg>
         
@@ -4185,7 +4185,7 @@
                   <span class="prefix">Master</span> developer
                   
                     <span class="gh">
-                      ranked 97.4k out of 115m users
+                      ranked 97.5k out of 115m users
                     </span>
                   
                   
