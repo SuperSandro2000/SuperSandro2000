@@ -1774,7 +1774,7 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            20324 issue comments
+            20325 issue comments
           </div>
         </section>
       
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    785k added, 267k removed
+                    659k added, 138k removed
                   
                 </div>
             
@@ -1906,21 +1906,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="366.5200500250395" height="8" fill="#7e7eff"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="366.51807284160293" height="8" fill="#7e7eff"/>
             
-              <rect mask="url(#languages-bar)" x="366.5200500250395" y="0" width="21.16488932724234" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="366.51807284160293" y="0" width="21.16477515376503" height="8" fill="#701516"/>
             
-              <rect mask="url(#languages-bar)" x="387.68493935228184" y="0" width="19.274007568489978" height="8" fill="#000080"/>
+              <rect mask="url(#languages-bar)" x="387.6828479953679" y="0" width="19.273903595328022" height="8" fill="#000080"/>
             
-              <rect mask="url(#languages-bar)" x="406.9589469207718" y="0" width="19.21031645063174" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="406.95675159069594" y="0" width="19.210212821049964" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="426.16926337140353" y="0" width="16.571270846388785" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="426.1669644117459" y="0" width="16.57118145307391" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="442.7405342177923" y="0" width="6.431562167619846" height="8" fill="#083fa1"/>
+              <rect mask="url(#languages-bar)" x="442.7381458648198" y="0" width="6.434008931453299" height="8" fill="#083fa1"/>
             
-              <rect mask="url(#languages-bar)" x="449.17209638541215" y="0" width="5.8025089840979" height="8" fill="#427819"/>
+              <rect mask="url(#languages-bar)" x="449.1721547962731" y="0" width="5.802477682605244" height="8" fill="#427819"/>
             
-              <rect mask="url(#languages-bar)" x="454.97460536951" y="0" width="5.025394630489919" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="454.97463247887833" y="0" width="5.025367521121619" height="8" fill="#f34b7d"/>
             
           </svg>
         
@@ -4261,7 +4261,7 @@
                   <span class="prefix">Master</span> developer
                   
                     <span class="gh">
-                      ranked 96.2k out of 113m users
+                      ranked 96.2k out of 119m users
                     </span>
                   
                   
@@ -4364,7 +4364,7 @@
                   <span class="prefix">Great</span> influencer
                   
                     <span class="gh">
-                      ranked 27k out of 113m users
+                      ranked 27k out of 119m users
                     </span>
                   
                   
