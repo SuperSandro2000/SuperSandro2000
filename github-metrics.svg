@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    787k added, 275k removed
+                    32.3k added, 4.07k removed
                   
                 </div>
             
@@ -1906,21 +1906,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="367.37418422632675" height="8" fill="#7e7eff"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="367.3758205655165" height="8" fill="#7e7eff"/>
             
-              <rect mask="url(#languages-bar)" x="367.37418422632675" y="0" width="20.97048337986413" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="367.3758205655165" y="0" width="20.970576785512257" height="8" fill="#701516"/>
             
-              <rect mask="url(#languages-bar)" x="388.3446676061909" y="0" width="19.096969945321117" height="8" fill="#000080"/>
+              <rect mask="url(#languages-bar)" x="388.34639735102877" y="0" width="19.097055006062096" height="8" fill="#000080"/>
             
-              <rect mask="url(#languages-bar)" x="407.441637551512" y="0" width="19.033863849756894" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="407.4434523570909" y="0" width="19.03394862941395" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="426.4755014012689" y="0" width="16.419058682254928" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="426.4774009865048" y="0" width="16.419131815181345" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="442.89456008352386" y="0" width="6.376993890717062" height="8" fill="#083fa1"/>
+              <rect mask="url(#languages-bar)" x="442.89653280168613" y="0" width="6.374973386462417" height="8" fill="#083fa1"/>
             
-              <rect mask="url(#languages-bar)" x="449.27155397424093" y="0" width="5.749211173805447" height="8" fill="#427819"/>
+              <rect mask="url(#languages-bar)" x="449.2715061881485" y="0" width="5.749236781646057" height="8" fill="#427819"/>
             
-              <rect mask="url(#languages-bar)" x="455.02076514804634" y="0" width="4.97923485195367" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="455.02074296979464" y="0" width="4.979257030205363" height="8" fill="#f34b7d"/>
             
           </svg>
         
@@ -4374,7 +4374,7 @@
                   <span class="prefix">Great</span> influencer
                   
                     <span class="gh">
-                      ranked 24.3k out of 125m users
+                      ranked 25.9k out of 125m users
                     </span>
                   
                   
