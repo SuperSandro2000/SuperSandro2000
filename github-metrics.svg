@@ -1770,7 +1770,7 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-            563 Issues opened
+            565 Issues opened
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    77.1k added, 45.2k removed
+                    684k added, 164k removed
                   
                 </div>
             
@@ -1906,21 +1906,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="369.7198538790899" height="8" fill="#7e7eff"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="369.7185697427958" height="8" fill="#7e7eff"/>
             
-              <rect mask="url(#languages-bar)" x="369.7198538790899" y="0" width="20.440689828237595" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="369.7185697427958" y="0" width="20.440618832235057" height="8" fill="#701516"/>
             
-              <rect mask="url(#languages-bar)" x="390.1605437073275" y="0" width="18.61450841358782" height="8" fill="#000080"/>
+              <rect mask="url(#languages-bar)" x="390.15918857503084" y="0" width="18.614443760403525" height="8" fill="#000080"/>
             
-              <rect mask="url(#languages-bar)" x="408.7750521209153" y="0" width="18.554194897924628" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="408.77363233543434" y="0" width="18.554130454225362" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="427.3292470188399" y="0" width="16.00425129531654" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="427.3277627896597" y="0" width="16.004195708255875" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="443.3334983141565" y="0" width="6.209096695260449" height="8" fill="#083fa1"/>
+              <rect mask="url(#languages-bar)" x="443.3319584979156" y="0" width="6.210672832875875" height="8" fill="#083fa1"/>
             
-              <rect mask="url(#languages-bar)" x="449.5425950094169" y="0" width="5.603964402348285" height="8" fill="#427819"/>
+              <rect mask="url(#languages-bar)" x="449.54263133079144" y="0" width="5.603944938275679" height="8" fill="#427819"/>
             
-              <rect mask="url(#languages-bar)" x="455.1465594117652" y="0" width="4.8534405882347835" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="455.14657626906717" y="0" width="4.853423730932842" height="8" fill="#f34b7d"/>
             
           </svg>
         
