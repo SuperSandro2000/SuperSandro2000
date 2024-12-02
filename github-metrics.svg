@@ -1906,21 +1906,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="361.78949227756743" height="8" fill="#7e7eff"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="361.7891505379391" height="8" fill="#7e7eff"/>
             
-              <rect mask="url(#languages-bar)" x="361.78949227756743" y="0" width="22.235939656304282" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="361.7891505379391" y="0" width="22.23591865264908" height="8" fill="#701516"/>
             
-              <rect mask="url(#languages-bar)" x="384.0254319338717" y="0" width="20.24936972745967" height="8" fill="#000080"/>
+              <rect mask="url(#languages-bar)" x="384.02506919058817" y="0" width="20.24935060028149" height="8" fill="#000080"/>
             
-              <rect mask="url(#languages-bar)" x="404.27480166133137" y="0" width="20.183759040833348" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="404.2744197908697" y="0" width="20.1837399756298" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="424.4585607021647" y="0" width="17.409860872472887" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="424.4581597664995" y="0" width="17.409844427441982" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="441.8684215746376" y="0" width="6.75572818321874" height="8" fill="#083fa1"/>
+              <rect mask="url(#languages-bar)" x="441.86800419394143" y="0" width="6.75615630933152" height="8" fill="#083fa1"/>
             
-              <rect mask="url(#languages-bar)" x="448.62414975785634" y="0" width="6.096145254087916" height="8" fill="#427819"/>
+              <rect mask="url(#languages-bar)" x="448.62416050327295" y="0" width="6.096139495782444" height="8" fill="#427819"/>
             
-              <rect mask="url(#languages-bar)" x="454.72029501194424" y="0" width="5.279704988055757" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="454.7202999990554" y="0" width="5.279700000944581" height="8" fill="#f34b7d"/>
             
           </svg>
         
@@ -4469,7 +4469,7 @@
                   <span class="prefix">Great</span> maintainer
                   
                     <span class="gh">
-                      ranked 31.1k out of 223m repositories
+                      ranked 31.1k out of 231m repositories
                     </span>
                   
                   
