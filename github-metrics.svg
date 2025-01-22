@@ -1867,7 +1867,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    32 views in last two weeks
+                    33 views in last two weeks
                   
                 </div>
             
@@ -1906,21 +1906,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="361.76044671377866" height="8" fill="#7e7eff"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="361.7597633449066" height="8" fill="#7e7eff"/>
             
-              <rect mask="url(#languages-bar)" x="361.76044671377866" y="0" width="22.234154487255775" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="361.7597633449066" y="0" width="22.23411248672971" height="8" fill="#701516"/>
             
-              <rect mask="url(#languages-bar)" x="383.99460120103447" y="0" width="20.247744046303488" height="8" fill="#000080"/>
+              <rect mask="url(#languages-bar)" x="383.99387583163633" y="0" width="20.247705798125345" height="8" fill="#000080"/>
             
-              <rect mask="url(#languages-bar)" x="404.24234524733794" y="0" width="20.22037224888879" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="404.2415816297617" y="0" width="20.22033405241623" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="424.46271749622673" y="0" width="17.408463155747228" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="424.46191568217796" y="0" width="17.408430270997282" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="441.871180651974" y="0" width="6.753882393832751" height="8" fill="#083fa1"/>
+              <rect mask="url(#languages-bar)" x="441.8703459531752" y="0" width="6.754738579993879" height="8" fill="#083fa1"/>
             
-              <rect mask="url(#languages-bar)" x="448.6250630458067" y="0" width="6.095655836955516" height="8" fill="#427819"/>
+              <rect mask="url(#languages-bar)" x="448.6250845331691" y="0" width="6.095644322204549" height="8" fill="#427819"/>
             
-              <rect mask="url(#languages-bar)" x="454.72071888276224" y="0" width="5.27928111723781" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="454.7207288553737" y="0" width="5.279271144626335" height="8" fill="#f34b7d"/>
             
           </svg>
         
@@ -4227,7 +4227,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="239.32 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="239.42333333333332 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd"><g stroke="#731237"><path d="M26.009 34.01c.444-.004.9.141 1.228.414.473.394.766.959.76 1.54-.01.735-.333 1.413-.97 2.037.66.718.985 1.4.976 2.048-.012.828-.574 1.58-1.687 2.258.624.788.822 1.549.596 2.28-.225.733-.789 1.219-1.69 1.459.703.833.976 1.585.82 2.256-.178.763-.313 1.716-2.492 1.711" stroke-linejoin="round"/><g stroke-linejoin="round"><path d="M18.548 28.422c1.184-4.303-2.132-5.292-2.132-5.292-.873 2.296-1.438 3.825-4.231 8.108-1.285 1.97-1.926 3.957-1.877 5.796M18.391 34.011L24.993 34c2.412-.009.211-.005-6.602.012zM5.004 37.017l5.234-.014-5.234.014z"/></g><g stroke-linejoin="round"><path d="M18.548 28.422c1.184-4.303-2.132-5.292-2.132-5.292-.873 2.296-1.438 3.825-4.231 8.108-1.285 1.97-1.926 3.957-1.877 5.796M5.004 37.017l5.234-.014-5.234.014zM7 48.012h4.01c1.352 1.333 2.672 2 3.961 2.001 0 0 .485-.005 5.46-.005h3.536"/></g><path d="M18.793 27.022c-.062.933-.373 2.082-.933 3.446-.561 1.364-.433 2.547.383 3.547"/></g><path d="M45 16.156V23a2 2 0 01-2 2H31l-6 4v-4h-1.934M12 23V8a2 2 0 012-2h29a2 2 0 012 2v10" stroke="#EB355E" stroke-linejoin="round"/><path stroke="#EB355E" stroke-linejoin="round" d="M23 12.014l-3 3 3 3M34 12.014l3 3-3 3"/><path stroke="#EB355E" d="M30.029 10l-3.015 10.027"/><path d="M32 39h3l6 4v-4h8a2 2 0 002-2V22a2 2 0 00-2-2h.138" stroke="#731237" stroke-linejoin="round"/><path stroke="#EB355E" stroke-linejoin="round" d="M33 29h12M33 34h6M43 34h2"/></g></svg>
@@ -4240,12 +4240,12 @@
                   
                     <div class="value-wrapper">
                       <div class="value">
-                        3316
+                        3317
                       </div>
                     </div>
                   
                 </div>
-                <div class="text">Reviewed 3316 pull requests</div>
+                <div class="text">Reviewed 3317 pull requests</div>
               </div>
             </div>
           
@@ -4400,7 +4400,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="30.418750000000003 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="30.4575 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g transform="translate(4 4)" fill="none" fill-rule="evenodd"><path d="M39 15h.96l4.038 3-.02-3H45a2 2 0 002-2V3a2 2 0 00-2-2H31a2 2 0 00-2 2v4.035" stroke="#B2A8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#7D6CFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M36 5.014l-3 3 3 3M40 5.014l3 3-3 3"/><path d="M6 37a1 1 0 110 2 1 1 0 010-2m7 0a1 1 0 110 2 1 1 0 010-2m-2.448 1a1 1 0 11-2 0 1 1 0 012 0z" fill="#7D6CFF"/><path d="M1.724 15.05A23.934 23.934 0 000 24c0 .686.029 1.366.085 2.037m19.92 21.632c1.3.218 2.634.331 3.995.331a23.92 23.92 0 009.036-1.76m13.207-13.21A23.932 23.932 0 0048 24c0-1.363-.114-2.7-.332-4M25.064.022a23.932 23.932 0 00-10.073 1.725" stroke="#B2A8FF" stroke-width="2" stroke-linecap="round"/><path d="M19 42.062V43a2 2 0 01-2 2H9.04l-4.038 3 .02-3H3a2 2 0 01-2-2V33a2 2 0 012-2h4.045" stroke="#B2A8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 0a6 6 0 110 12A6 6 0 016 0z" stroke="#7D6CFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#7D6CFF" stroke-width="2" stroke-linecap="round" d="M6 3v6M3 6h6"/><path d="M42 36a6 6 0 110 12 6 6 0 010-12z" stroke="#7D6CFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path stroke="#7D6CFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M44.338 40.663l-3.336 3.331-1.692-1.686M31 31c-.716-2.865-3.578-5-7-5-3.423 0-6.287 2.14-7 5"/><path d="M24 16a5 5 0 110 10 5 5 0 010-10z" stroke="#7D6CFF" stroke-width="2" stroke-linecap="round"/><circle stroke="#7D6CFF" stroke-width="2" cx="24" cy="24" r="14"/></g></svg>
@@ -4411,18 +4411,18 @@
                   <span class="prefix">Great</span> maintainer
                   
                     <span class="gh">
-                      ranked 29.5k out of 236m repositories
+                      ranked 29.5k out of 230m repositories
                     </span>
                   
                   
                     <div class="value-wrapper">
                       <div class="value">
-                        1785
+                        1786
                       </div>
                     </div>
                   
                 </div>
-                <div class="text">Maintaining a repository with 1785 stars</div>
+                <div class="text">Maintaining a repository with 1786 stars</div>
               </div>
             </div>
           
