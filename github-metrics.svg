@@ -1841,7 +1841,7 @@
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    649k added, 166k removed
+                    710k added, 63.1k removed
                   
                 </div>
             
@@ -1906,21 +1906,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="449.27745165482963" height="8" fill="#00ADD8"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="449.27744166776404" height="8" fill="#00ADD8"/>
             
-              <rect mask="url(#languages-bar)" x="449.27745165482963" y="0" width="8.530279833488384" height="8" fill="#7e7eff"/>
+              <rect mask="url(#languages-bar)" x="449.27744166776404" y="0" width="8.530279643867331" height="8" fill="#7e7eff"/>
             
-              <rect mask="url(#languages-bar)" x="457.80773148831804" y="0" width="0.5232858246281488" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="457.8077213116314" y="0" width="0.5232858129959385" height="8" fill="#701516"/>
             
-              <rect mask="url(#languages-bar)" x="458.3310173129462" y="0" width="0.4802368100373426" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="458.3310071246273" y="0" width="0.48023679936207614" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="458.8112541229835" y="0" width="0.4765352083076818" height="8" fill="#000080"/>
+              <rect mask="url(#languages-bar)" x="458.81124392398937" y="0" width="0.47653519771469893" height="8" fill="#000080"/>
             
-              <rect mask="url(#languages-bar)" x="459.2877893312912" y="0" width="0.4097120942100765" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="459.2877791217041" y="0" width="0.40971208510251605" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="459.69750142550123" y="0" width="0.15903594392655784" height="8" fill="#083fa1"/>
+              <rect mask="url(#languages-bar)" x="459.69749120680655" y="0" width="0.15904616581023598" height="8" fill="#083fa1"/>
             
-              <rect mask="url(#languages-bar)" x="459.8565373694278" y="0" width="0.14346263057221156" height="8" fill="#427819"/>
+              <rect mask="url(#languages-bar)" x="459.8565373726168" y="0" width="0.14346262738315613" height="8" fill="#427819"/>
             
           </svg>
         
@@ -4416,7 +4416,7 @@
                   <span class="prefix">Great</span> maintainer
                   
                     <span class="gh">
-                      ranked 28.1k out of 244m repositories
+                      ranked 28.1k out of 245m repositories
                     </span>
                   
                   
